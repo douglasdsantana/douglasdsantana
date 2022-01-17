@@ -4,8 +4,8 @@
   <a href="https://www.linkedin.com/in/douglasdsantana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div align="center">
   <a href="https://github.com/douglasdsantana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasdsantana&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasdsantana&layout=compact&langs_count=7&theme=merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=douglasdsantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasdsantana&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
   ## Tecnologias que eu uso no meu dia
