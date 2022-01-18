@@ -1,6 +1,6 @@
 <h1 align="center">Olá <img src="https://github.com/douglasdsantana/douglasdsantana/blob/main/Hi.gif" alt="hi gif" width="30px">, eu sou o Douglas Dutra Santana Formado em Redes de Computadores, atualmente estudando Análise e Desenvolvimento de Sistemas 💻.</h1>
 <div align="center">
-  <a href="https://github.com/dougdsantana">
+  <a href="https://github.com/douglasdsantana">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=douglasdsantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasdsantana&layout=compact&langs_count=7&theme=radical"/>
 </div>
@@ -8,11 +8,11 @@
   <h3 align="left">Languages:</h3>
 <p align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
      
   
-  <h3 align="left">Frameworks and Libs:</h3>
+<h3 align="left">Frameworks and Libs:</h3>
 <p align="left">
      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   
