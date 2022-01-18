@@ -37,11 +37,10 @@
   <h3 align="left">Connect with me:</h3>
 <p align="left">
      <a href="https://www.linkedin.com/in/douglasdsantana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     <a href = "http://douglasdeveloper.epizy.com/"><img src=" https://img.shields.io/website?label=Portfólio&style=for-the-badge/" target="_blank"></a>
      <a href = "mailto:douglasdsantana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/dougdsantana/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href="https://www.instagram.com/dougdsantana/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
-  <a href="https://github.com/douglasdsantana/Certificates"><h3 align="left">Certificates here</h3></a>
+     <a href="https://github.com/douglasdsantana/Certificates"><h3 align="left">Certificates here</h3></a>
     
  ![Snake animation](https://github.com/douglasdsantana/douglasdsantana/blob/output/github-contribution-grid-snake.svg)
 
