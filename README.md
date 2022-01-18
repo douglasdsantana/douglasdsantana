@@ -42,8 +42,6 @@
     [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
   
   
-
-  
   <a href="https://github.com/douglasdsantana/Certificates"><h3 align="left">Certificates here</h3></a>
    
  ![Snake animation](https://github.com/douglasdsantana/douglasdsantana/blob/output/github-contribution-grid-snake.svg)
