@@ -4,8 +4,7 @@
 [![Blog](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=http://douglasdeveloper.epizy.com/)](http://douglasdeveloper.epizy.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dougdsantana)<br/><br/>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=douglasdsantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasdsantana&layout=compact&langs_count=7&theme=radical"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=douglasdsantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasdsantana&layout=compact&langs_count=7&theme=radical"/>
 
 ## Tecnologias que eu uso no meu dia
 
