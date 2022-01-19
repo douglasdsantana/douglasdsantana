@@ -23,6 +23,7 @@
 
 - ## [📃 Certificados](https://github.com/douglasdsantana/Certificados)<br/><br/>
 
+
 ![Snake animation](https://github.com/douglasdsantana/douglasdsantana/blob/output/github-contribution-grid-snake.svg)
 
 
