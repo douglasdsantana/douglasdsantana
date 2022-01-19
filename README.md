@@ -1,4 +1,4 @@
-<h1>Olá <img src="https://github.com/douglasdsantana/douglasdsantana/blob/main/Hi.gif" alt="hi gif" width="30px">! Eu sou o <a href="https://www.linkedin.com/in/douglasdsantana/"><i>Douglas Dutra Santana</i></a> 👨🏻‍💻<br/><br/>
+<h1>Olá <img src="https://github.com/douglasdsantana/douglasdsantana/blob/main/Hi.gif" alt="hi gif" width="30px">! Eu sou o <a href="https://www.linkedin.com/in/douglasdsantana/"><i>Douglas Dutra Santana</i></a> 👨‍💻<br/><br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasdsantana/)
 [![Site](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=http://douglasdeveloper.epizy.com/)](http://douglasdeveloper.epizy.com)
