@@ -19,7 +19,7 @@
 
 
 
-- ## [📃 Currículo](https://github.com/douglasdsantana/Certificados)<br/><br/>
+- ## [📃 Currículo](https://github.com/douglasdsantana/douglasdsantana/blob/main/Curriculo_Douglas.pdf)<br/><br/>
 
 - ## [🎓 Certificados](https://github.com/douglasdsantana/Certificados)<br/><br/>
 
