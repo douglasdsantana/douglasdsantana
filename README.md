@@ -1,6 +1,9 @@
 <h1>Olá <img src="https://github.com/douglasdsantana/douglasdsantana/blob/main/Hi.gif" alt="hi gif" width="30px">! Eu sou o <a href="https://www.linkedin.com/in/douglasdsantana/"><i>Douglas Dutra Santana</i></a> 👨‍💻<br/><br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasdsantana/)
+<a href="https://api.whatsapp.com/send?phone=5511988040572/">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 [![Site](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=http://douglasdeveloper.epizy.com/)](http://douglasdeveloper.epizy.com)
 <a href = "mailto:douglasdsantana@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dougdsantana)<br/><br/>
